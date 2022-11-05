@@ -1,0 +1,30 @@
+{
+  "name": "ilahi-nasirov",
+  "version": "1.0.0",
+  "description": "this is a test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ilahi": "echo My name is Ilahi",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "test",
+    "paket"
+  ],
+  "author": "Ilahi Nasirov",
+  "license": "ISC",
+  "dependencies": {
+    "is": "^3.3.0",
+    "mongoose": "^6.7.1",
+    "nodemailer": "^6.8.0",
+    "simple": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilahinasirov/ilahi-nasirov.git"
+  }
+}
